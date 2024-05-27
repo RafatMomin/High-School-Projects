@@ -3,6 +3,8 @@
 #define ROWS 5
 #define COLS 5
 
+//@ author Rafat Momin
+
 // Directions for moving up, down, left, and right
 int rowDirections[] = {-1, 1, 0, 0};
 int colDirections[] = {0, 0, -1, 1};
