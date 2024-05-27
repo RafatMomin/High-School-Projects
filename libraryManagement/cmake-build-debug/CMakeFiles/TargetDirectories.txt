@@ -1,0 +1,3 @@
+D:/High School Projects/libraryManagement/cmake-build-debug/CMakeFiles/libraryManagement.dir
+D:/High School Projects/libraryManagement/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/High School Projects/libraryManagement/cmake-build-debug/CMakeFiles/rebuild_cache.dir

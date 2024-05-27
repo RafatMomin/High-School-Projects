@@ -1,0 +1,6 @@
+Explanation
+Maze Representation: The maze is represented as a 2D array where 'S' is the start, 'E' is the end, '#' represents walls, and ' ' represents paths.
+Directions: rowDirections and colDirections arrays are used to move up, down, left, and right.
+Print Maze Function: printMaze function prints the current state of the maze.
+Solve Maze Function: solveMaze function uses DFS to find a path from the start to the end. It marks the path with '+' and backtracks if necessary.
+Main Function: Initializes the maze, prints the original maze, attempts to solve it, and prints the result.
